@@ -1,4 +1,4 @@
-#EDIT
+# EDIT
 Forked repo cause i really liked the presentatnion, modified it so it uses my dockerhub private repository to hold the iamge
 
 # Code for my talk "Introduction to Kubernetes for Developers"
