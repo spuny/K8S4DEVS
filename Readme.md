@@ -1,3 +1,6 @@
+#EDIT
+Forked repo cause i really liked the presentatnion, modified it so it uses my dockerhub private repository to hold the iamge
+
 # Code for my talk "Introduction to Kubernetes for Developers"
 
 This repo contains the source code used for my talk "Introduction to Kubernetes for Developers". It contains both the webb app that is deployed to Kubernetes, and the different YAML files used to deploy it in various forms.
